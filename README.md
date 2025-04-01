@@ -9,7 +9,7 @@
 
 ## Descrição 
 <p align="justify">
-Este repositório contém o projeto "DesafioIphone" desenvolvido como parte do Módulo " Programação Orientada a Objetos com Java" do Bootcamp Bradesco - Java Cloud Native 2025.</p>
+Este repositório contém o projeto "Sudoku Game" desenvolvido como parte do Módulo " Programação Orientada a Objetos com Java" do Bootcamp Bradesco - Java Cloud Native 2025.</p>
 
 ## Desafio - Sudoku Game
 Implementação do jogo Sudoku em Java, desenvolvido como um projeto prático para consolidar meus conhecimentos em Programação Orientada a Objetos (POO) e desenvolvimento de aplicações interativas.
